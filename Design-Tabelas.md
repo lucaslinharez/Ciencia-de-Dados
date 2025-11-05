@@ -10,14 +10,14 @@ Ele define **como os dados serão armazenados, relacionados e acessados**.
 Uma **tabela** é um objeto do banco de dados que **armazena dados em linhas e colunas**, semelhante a uma planilha.  
 Cada **coluna** define um **tipo de dado**, e cada **linha** representa um **registro**.
 
-```sql ´´´ 
-CREATE TABLE Clientes (
-    ClienteID INT PRIMARY KEY,
+sql  
+
+ CREATE TABLE Clientes (
+ ClienteID INT PRIMARY KEY,
     Nome NVARCHAR(100),
     Email NVARCHAR(100),
-    DataCadastro DATE 
-); 
-
+    DataCadastro DATE
+);   
 
 ## Estrutura Básica de uma Tabela
 
