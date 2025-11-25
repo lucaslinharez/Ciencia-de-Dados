@@ -21,7 +21,7 @@ O conhecimento surge após os dados passarem pelo processo de contextualização
 
 # Processos de Gestão da Informação
 
-Resumo visual rápido
+Os processos de Gestão da Informação são variados de acordo com diversos autores. Abaixo consta o processo mais comum do processo de tratamento dos dados.
 
 **Necessidade → Coleta → Organização → Análise → Distribuição → Uso → Avaliação**
 
