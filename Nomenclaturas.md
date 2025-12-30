@@ -61,7 +61,7 @@ Use nomes autoexplicativos, curtos e consistentes.
 ❌ ``` DtCr, vl_t, cliente_id_x ```
 
 
-Use camelCase ou PascalCase, e mantenha o padrão em todo o banco.
+Usar camelCase ou PascalCase, para manter o padrão em todo o banco.
 
 
 Exemplo: 
@@ -69,7 +69,7 @@ Exemplo:
 ``` DataCriacao, valorTotal ```
 
 
-Em chaves estrangeiras, use o mesmo nome da chave primária referenciada:
+Em chaves estrangeiras, usar o mesmo nome da chave primária referenciada:
 
 
 **Tabela Cliente → IdCliente**
@@ -96,10 +96,10 @@ Default constraint: DF_<Tabela>_<Coluna> → DF_Cliente_Ativo
 
 ## Outras boas práticas
 
-. Evite nomes ambíguos ou genéricos (Data, Status, Valor) sem contexto.
+. Evitar nomes ambíguos ou genéricos (Data, Status, Valor) sem contexto.
 
 
-. Não misture idiomas — escolha entre português ou inglês e mantenha.
+. Escolher entre português ou inglês e manter.
 
 
 . Se usar abreviações, documente-as num glossário interno.
