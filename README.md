@@ -21,7 +21,7 @@ O conhecimento surge após os dados passarem pelo processo de contextualização
 
 # Processos de Gestão da Informação
 
-Resumo visual rápido
+Os processos de Gestão da Informação são variados de acordo com diversos autores. Abaixo consta o processo mais comum do processo de tratamento dos dados.
 
 **Necessidade → Coleta → Organização → Análise → Distribuição → Uso → Avaliação**
 
@@ -68,6 +68,12 @@ Monitorar se a informação está sendo útil e atualizada.
 Revisar processos, eliminar dados obsoletos e melhorar fontes e métodos.
 Manter o ciclo de gestão da informação sempre eficiente.
 
+# Tipos de Conhecimento
 
+O conhecimento pode ser classificado em duas categorias:
 
+###  ⚪ Conhecimento explícito:
+é aquele que pode ser articulado, documentado e codificado. Está presente em manuais, relatórios, procedimentos, entre outros.
 
+###  ⚪ Conhecimento tácito: 
+é pessoal. adquirido por meio da prática e da experiencia acumulada ao longo do tempo, transferido principalmente por meio da intereação social.
